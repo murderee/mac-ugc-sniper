@@ -33,7 +33,7 @@ next update at 5 stars
 
 # Common Issues
 ## Module Error
-> Run `pip3 install [module]` 
+> Run `pip3 install [module]` in terminal/powershell
 > To check what modules to install, read sniper.py in IDLE. All modules show as `import [module]`
 ## Key Error id
 > Make sure your roblox cookie is valid, and has no spaces after it
