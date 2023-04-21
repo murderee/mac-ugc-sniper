@@ -37,3 +37,5 @@ next update at 5 stars
 > To check what modules to install, read sniper.py in IDLE. All modules show as `import [module]`
 ## Key Error id
 > Make sure your roblox cookie is valid, and has no spaces after it
+## Other issues
+> Post your issue in the issues tab of this repo, and if you can send the error given (please don't send your cookie) I will try my best to answer as much as I can.
