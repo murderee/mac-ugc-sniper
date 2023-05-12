@@ -4,8 +4,9 @@ UGC limited sniper based off of xolo and J3ldo sniper, webhooks and proxies comi
 # Requirements
 Install most recent python version (3+ works best)
 
-Have Windows 7+
+Have Windows 7+ or
 Have Mac 10.15.7+
+
 Very recent mac versions may not work (made mainly for catalina)
 
 # Updates
