@@ -25,7 +25,7 @@ class Sniper:
         self.cookie = self._load_cookie()
         self.items = self._load_items()
         self.xcsrf_token = None
-        self.title = "Starting Sniper // Made by california#8584 // Github: @murderee"
+        self.title = "Starting Sniper // Made by discord @tenants // Github: @murderee"
         self.checks = 0
         self.buys = 0
         self.user_id = self._get_user_id()
