@@ -1,5 +1,6 @@
 # Gen Sniper
 UGC limited sniper based off of xolo and J3ldo sniper, webhooks and proxies coming soon.
+compiled/rewritten to work best for mac os catalina (macos 10.15)
 
 # Requirements
 Install most recent python version (3+ works best)
